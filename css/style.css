@@ -1,6 +1,6 @@
 @font-face {
   font-family: ian;
-  src: url(ian.ttf);
+  src: url("ian.ttf";
 }
 * {
    font-family: ian;
